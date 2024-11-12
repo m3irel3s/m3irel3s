@@ -6,7 +6,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelmeireles25/)
 
-# Stats:
+Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m3irel3s&theme=tokyonight&hide_border=true"/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=m3irel3s&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/><br/>
