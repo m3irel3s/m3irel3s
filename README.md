@@ -9,7 +9,7 @@ Aspiring Developer | 42 Porto Student
 </p>
 
 ## 📈 Stats:
-<p align="center">
+<p align="center"><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m3irel3s&theme=github_dark&hide_border=false&border_color=ffffff"/><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=m3irel3s&theme=github_dark&hide_border=false&border_color=ffffff"/><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3irel3s&theme=github_dark&hide_border=false&border_color=ffffff&layout=compact"/>
