@@ -8,10 +8,7 @@ Aspiring Developer | 42 Porto Student
   <img src="https://img.shields.io/badge/valgrind-%23007844.svg?style=for-the-badge&logo=valgrind&logoColor=white" style="margin-right: 10px"/>
 </p>
 
-## ![Search](https://img.shields.io/badge/Stats-%234CAF50.svg?style=for-the-badge&logo=search&logoColor=white) Stats:
-## ![Trophy](https://img.shields.io/badge/Stats-%23FFD700.svg?style=for-the-badge&logo=trophy&logoColor=white) Stats:
-## ![Pie Chart](https://img.shields.io/badge/Stats-%23FF9F00.svg?style=for-the-badge&logo=chartjs&logoColor=white) Stats:
-## ![Clipboard](https://img.shields.io/badge/Stats-%23FF6347.svg?style=for-the-badge&logo=clipboard&logoColor=white) Stats:
+## 📈 Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m3irel3s&theme=github_dark&hide_border=false&border_color=ffffff"/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=m3irel3s&theme=github_dark&hide_border=false&border_color=ffffff"/><br/>
