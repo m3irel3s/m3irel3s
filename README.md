@@ -14,7 +14,3 @@ Aspiring Developer | 42 Porto Student
   <img src="https://github-readme-stats.vercel.app/api?username=m3irel3s&theme=github_dark&hide_border=false&border_color=ffffff"/><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3irel3s&theme=github_dark&hide_border=false&border_color=ffffff&layout=compact"/>
 </p>
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelmeireles25/)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
