@@ -6,9 +6,9 @@ Aspiring Developer | 42 Porto Student
 
 # Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m3irel3s&theme=tokyonight&hide_border=true"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=m3irel3s&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3irel3s&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m3irel3s&theme=dracula&hide_border=true"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=m3irel3s&theme=dracula&hide_border=true&include_all_commits=false&count_private=false"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3irel3s&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 
 ## 🌐 Socials:
