@@ -2,13 +2,12 @@
 Aspiring Developer | 42 Porto Student
 
 ## 🚀 Core Skills:
-
-| Language/Tool  | Badge |
-| -------------- | ----- |
-| **C**          | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) |
-| **C++**        | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **GDB**        | ![GDB](https://img.shields.io/badge/gdb-%23121011.svg?style=for-the-badge&logo=gnu&logoColor=white) |
-| **Valgrind**   | ![Valgrind](https://img.shields.io/badge/valgrind-%23007844.svg?style=for-the-badge&logo=valgrind&logoColor=white) |
+<p align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="margin-right: 10px"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="margin-right: 10px"/>
+  <img src="https://img.shields.io/badge/gdb-%23121011.svg?style=for-the-badge&logo=gnu&logoColor=white" style="margin-right: 10px"/>
+  <img src="https://img.shields.io/badge/valgrind-%23007844.svg?style=for-the-badge&logo=valgrind&logoColor=white" style="margin-right: 10px"/>
+</p>
 
 # Stats:
 <p align="center">
