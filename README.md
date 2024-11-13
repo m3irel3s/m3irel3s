@@ -3,8 +3,8 @@ Aspiring Developer | 42 Porto Student
 
 ## 🚀 Core Skills:
 <p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/gdb-%23121011.svg?style=for-the-badge&logo=gnu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="margin-right: 50px"/>
+  <img src="https://img.shields.io/badge/gdb-%23121011.svg?style=for-the-badge&logo=gnu&logoColor=white" style="margin-right: 50px"/>
   <img src="https://img.shields.io/badge/valgrind-%23007844.svg?style=for-the-badge&logo=valgrind&logoColor=white"/>
 </p>
 
