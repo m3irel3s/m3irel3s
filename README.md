@@ -1,5 +1,5 @@
 ## 👋 Hey, I’m Miguel!
-Aspiring Developer | 42 Porto Student
+Aspiring Developer
 
 ## 🚀 Core Skills:
 <p align="center">
