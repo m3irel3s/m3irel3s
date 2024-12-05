@@ -6,7 +6,6 @@ Aspiring Developer
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C Logo"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GDB-%23121011.svg?style=for-the-badge&logo=gnu&logoColor=white" alt="GDB Logo"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Valgrind-%23007844.svg?style=for-the-badge&logo=debugging&logoColor=white" alt="Valgrind Logo"/>&nbsp;&nbsp;&nbsp;
-  <img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat&logo=42&logoColor=white&labelColor=000000&color=000000'/>
 </p>
 
 
