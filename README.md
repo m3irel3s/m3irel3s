@@ -3,9 +3,11 @@ Aspiring Developer
 
 ## 🚀 Core Skills:
 <p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/gdb-%23121011.svg?style=for-the-badge&logo=gnu&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/valgrind-%23007844.svg?style=for-the-badge&logo=valgrind&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GDB-%23121011.svg?style=for-the-badge&logo=gnu&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Valgrind-%23007844.svg?style=for-the-badge&logo=valgrind&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ## 📈 Stats:
