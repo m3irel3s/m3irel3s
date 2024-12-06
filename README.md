@@ -15,7 +15,6 @@ Aspiring Developer
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3irel3s&theme=github_dark&hide_border=true&border_radius=10&layout=compact"/>
 </p>
 
----
 
 ## 👨‍💻 My 42 Projects
 
