@@ -22,8 +22,8 @@ Here are the projects I’ve completed during my time at 42 School.
 
 | **Project Name**    | **Description**                                      | **Grade**                                                                 |
 |---------------------|------------------------------------------------------|---------------------------------------------------------------------------|
-| [Libft](https://github.com/m3irel3s/42_Libft)                | A custom C library with standard functions rewritten | ![Static Badge](https://img.shields.io/badge/125%2F100-%2328a745?style=flat) |
-| [Printf](https://github.com/m3irel3s/42_Ft_Printf)           | Recreating the printf function in C                  | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) |
-| [Get_next_line](https://github.com/m3irel3s/42_Get_next_line)| Reads a file or input line by line efficiently.      | ![Static Badge](https://img.shields.io/badge/125%2F100-%2328a745?style=flat) |
-| [Push_swap](https://github.com/m3irel3s/42_Push_swap)        | Sorting algorithms visualization and implementation  | ![Static Badge](https://img.shields.io/badge/96%2F100-%2328a745?style=flat)|
-| [So_long](https://github.com/m3irel3s/42_So_long)        | A 2D game that uses a grid-based map ||
+| [Libft](https://github.com/m3irel3s/42_Libft)                | A library of rewritten C standard functions | ![Static Badge](https://img.shields.io/badge/125%2F100-%2328a745?style=flat) |
+| [Printf](https://github.com/m3irel3s/42_Ft_Printf)           | A custom implementation of the printf function in C | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) |
+| [Get_next_line](https://github.com/m3irel3s/42_Get_next_line)| Reads a file or input line by line      | ![Static Badge](https://img.shields.io/badge/125%2F100-%2328a745?style=flat) |
+| [Push_swap](https://github.com/m3irel3s/42_Push_swap)        | Implementation of a sorting algorithm  | ![Static Badge](https://img.shields.io/badge/96%2F100-%2328a745?style=flat)|
+| [So_long](https://github.com/m3irel3s/42_So_long)        | A simple grid-based 2D game ||
