@@ -20,7 +20,7 @@ Aspiring Developer
 
 Here are the projects I’ve completed during my time at 42 School.
 
-| **Project Name**    | **Description**                                      | **Grade**                                                                 |
+| **Project Name**                                             | **Description**                                      |**Grade**                                                                 |
 |---------------------|------------------------------------------------------|---------------------------------------------------------------------------|
 | [Libft](https://github.com/m3irel3s/42_Libft)                | A library of rewritten C standard functions         | ![Static Badge](https://img.shields.io/badge/125%2F100-%2328a745?style=flat) |
 | [Printf](https://github.com/m3irel3s/42_Ft_Printf)           | A custom implementation of the printf function in C | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) |
