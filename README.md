@@ -4,7 +4,7 @@ Aspiring Developer
 ## 🚀 Core Skills:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,html,js,css,react,mongodb,tailwind" />
+    <img src="https://skillicons.dev/icons?i=git,c,js,html,css,react,mongodb,tailwind" />
   </a>
 </p>
 
