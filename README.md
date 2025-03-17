@@ -3,9 +3,9 @@ Aspiring Developer
 
 ## 🚀 Core Skills:
 <p align="center">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C Logo"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GDB-%23121011.svg?style=for-the-badge&logo=gnu&logoColor=white" alt="GDB Logo"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Valgrind-%23007844.svg?style=for-the-badge&logo=debugging&logoColor=white" alt="Valgrind Logo"/>&nbsp;&nbsp;&nbsp;
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,html,js,css,react,mongodb,tailwind" />
+  </a>
 </p>
 
 
