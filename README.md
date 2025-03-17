@@ -28,4 +28,4 @@ Here are the projects I’ve completed during my time at 42 School.
 | [Push_swap](https://github.com/m3irel3s/42_Push_swap)        | Implementation of a sorting algorithm               | ![Static Badge](https://img.shields.io/badge/96%2F100-%2328a745?style=flat)  |
 | [So_long](https://github.com/m3irel3s/42_So_long)            | A simple grid-based 2D game                         | ![Static Badge](https://img.shields.io/badge/125%2F100-%2328a745?style=flat) |
 | [Pipex](https://github.com/m3irel3s/42_Pipex)                | Recreating UNIX pipe functionality                  | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) |
-| [Minishell](https://github.com/m3irel3s/42_Minishell)        | Creating a basic UNIX shell that works like Bash    | |
+| [Minishell](https://github.com/m3irel3s/42_Minishell)        | Creating a basic UNIX shell that works like Bash    | ![Static Badge](https://img.shields.io/badge/99%2F100-%2328a745?style=flat) |
