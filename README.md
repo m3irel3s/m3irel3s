@@ -1,5 +1,5 @@
 ## 👋 Hey, I’m Miguel!
-Aspiring Developer
+I’m 25 years old, born and raised in Porto, Portugal, and I’m currently studying at 42 Porto, a coding school that follows a peer-to-peer learning model.
 
 ## 🚀 Core Skills:
 <p align="center">
