@@ -22,7 +22,7 @@ Here are the projects I’ve completed during my time at 42 School.
 <div align="center">
 
 | **Project Name**                                             | **Description**                                      | **Grade**                                                                 | **Rank** |
-|--------------------------------------------------------------|------------------------------------------------------|---------------------------------------------------------------------------|:--------:|
+|--------------------------------------------------------------|------------------------------------------------------|---------------------------------------------------------------------------|----------|
 | [Libft](https://github.com/m3irel3s/42_Libft)                | A library of rewritten C standard functions         | ![Static Badge](https://img.shields.io/badge/125%2F100-%2328a745?style=flat) | 00 |
 | [Printf](https://github.com/m3irel3s/42_Ft_Printf)           | A custom implementation of the printf function in C | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 01 |
 | [Get_next_line](https://github.com/m3irel3s/42_Get_next_line)| Reads a file or input line by line                  | ![Static Badge](https://img.shields.io/badge/125%2F100-%2328a745?style=flat) | 01 |
