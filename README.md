@@ -19,7 +19,7 @@ I’m 25 years old, born and raised in Porto, Portugal, and I’m currently stud
 ## 👨‍💻 My 42 Projects
 
 Here are the projects I’ve completed during my time at 42 School.
-<div align="center">
+<div align="">
 
 | **Project Name**                                             | **Description**                                      | **Grade**                                                                 | **Rank** |
 |--------------------------------------------------------------|------------------------------------------------------|---------------------------------------------------------------------------|----------|
