@@ -30,7 +30,7 @@ Here are the projects I’ve completed during my time at 42 School.
 | **[So_long](https://github.com/m3irel3s/42_So_long)**            | A simple grid-based 2D game                         | ![Static Badge](https://img.shields.io/badge/125%2F100-%2328a745?style=flat) | 02 |
 | **[Pipex](https://github.com/m3irel3s/42_Pipex)**                | Recreating UNIX pipe functionality                  | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 02 |
 | **[Minishell](https://github.com/m3irel3s/42_Minishell)**        | Creating a basic UNIX shell that works like Bash    | ![Static Badge](https://img.shields.io/badge/99%2F100-%2328a745?style=flat)  | 03 |
-| **[Philosophers](https://github.com/m3irel3s/42_Philosophers)**  | Solving dining philosophers problem                 |   | 03 |
+| **[Philosophers](https://github.com/m3irel3s/42_Philosophers)**  | Solving dining philosophers problem                 | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 03 |
 
 </div>
 
