@@ -32,7 +32,9 @@ Here are the projects I’ve completed during my time at 42 School.
 | **[Minishell](https://github.com/m3irel3s/42_Minishell)**        | Creating a basic UNIX shell that works like Bash    | ![Static Badge](https://img.shields.io/badge/99%2F100-%2328a745?style=flat)  | 03 |
 | **[Philosophers](https://github.com/m3irel3s/42_Philosophers)**  | Solving dining philosophers problem                 | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 03 |
 | **[Cub3d](https://github.com/m3irel3s/42_Cub3d)**                | A 3D game using raycasting, inspired by Wolfenstein 3D | ![Static Badge](https://img.shields.io/badge/125%2F100-%2328a745?style=flat) | 04 |
-| <details><summary>**CPP Modules (click to expand)**</summary>
+
+<details>
+<summary>Expand CPP Modules</summary>
 
 | **Project Name** | **Description** | **Grade** | **Rank** |
 |------------------|-----------------|-----------|----------|
@@ -41,14 +43,13 @@ Here are the projects I’ve completed during my time at 42 School.
 | **[CPP Module 02](link)** | Operator overloading, polymorphism | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
 | **[CPP Module 03](link)** | Inheritance, abstract classes | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
 | **[CPP Module 04](link)** | Templates, typename | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
-| **[CPP Module 05](link)** | Exceptions and error handling | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 05 |
-| **[CPP Module 06](link)** | Casting (static, dynamic, etc.) | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 05 |
-| **[CPP Module 07](link)** | Containers, iterators | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 05 |
-| **[CPP Module 08](link)** | Algorithms, more containers | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 05 |
-| **[CPP Module 09](link)** | Real-world practice (phonebook, etc.) | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 05 |
+| **[CPP Module 05](link)** | Exceptions and error handling | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
+| **[CPP Module 06](link)** | Casting (static, dynamic, etc.) | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
+| **[CPP Module 07](link)** | Containers, iterators | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
+| **[CPP Module 08](link)** | Algorithms, more containers | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
+| **[CPP Module 09](link)** | Real-world practice (phonebook, etc.) | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
 
-</details> |
-
+</details>
 </div>
 
 
