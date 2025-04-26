@@ -37,16 +37,16 @@ Here are the projects I’ve completed during my time at 42 School.
 
 | **Project Name** | **Description** | **Grade** | **Rank** |
 |------------------|-----------------|-----------|----------|
-| **[CPP Module 00](link)** | C++ basics (classes, namespaces) | Pending | 04 |
-| **[CPP Module 01](link)** | Memory allocation, references | Pending | 04 |
-| **[CPP Module 02](link)** | Operator overloading, polymorphism | Pending | 04 |
-| **[CPP Module 03](link)** | Inheritance, abstract classes | Pending | 04 |
-| **[CPP Module 04](link)** | Templates, typename | Pending | 04 |
-| **[CPP Module 05](link)** | Exceptions and error handling | Pending | 04 |
-| **[CPP Module 06](link)** | Casting (static, dynamic, etc.) | Pending | 04 |
-| **[CPP Module 07](link)** | Containers, iterators | Pending | 04 |
-| **[CPP Module 08](link)** | Algorithms, more containers | Pending | 04 |
-| **[CPP Module 09](link)** | Real-world practice (phonebook, etc.) | Pending | 04 |
+| **[CPP Module 00](link)** | C++ basics (classes, namespaces)          | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
+| **[CPP Module 01](link)** | Memory allocation, references             | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
+| **[CPP Module 02](link)** | Operator overloading, polymorphism        | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
+| **[CPP Module 03](link)** | Inheritance, abstract classes             | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
+| **[CPP Module 04](link)** | Templates, typename                       | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
+| **[CPP Module 05](link)** | Exceptions and error handling             | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 05 |
+| **[CPP Module 06](link)** | Casting (static, dynamic, etc.)           | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 05 |
+| **[CPP Module 07](link)** | Containers, iterators                     | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 05 |
+| **[CPP Module 08](link)** | Algorithms, more containers               | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 05 |
+| **[CPP Module 09](link)** | Real-world practice (phonebook, etc.)     | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 05 |
 
 </details>
 
