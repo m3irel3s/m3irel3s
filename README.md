@@ -33,6 +33,8 @@ Here are the projects I’ve completed during my time at 42 School.
 | **[Philosophers](https://github.com/m3irel3s/42_Philosophers)**  | Solving dining philosophers problem                 | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 03 |
 | **[Cub3d](https://github.com/m3irel3s/42_Cub3d)**                | A 3D game using raycasting, inspired by Wolfenstein 3D | ![Static Badge](https://img.shields.io/badge/125%2F100-%2328a745?style=flat) | 04 |
 
+
+<!--
 <details>
 <summary>Expand CPP Modules</summary>
 
@@ -52,5 +54,6 @@ Here are the projects I’ve completed during my time at 42 School.
 </details>
 </div>
 
+-->
 
 <!-- ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) -->
