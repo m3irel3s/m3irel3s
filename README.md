@@ -38,7 +38,7 @@ Here are the projects I’ve completed during my time at 42 School.
 
 | **Project Name** | **Description** | **Grade** | **Rank** |
 |------------------|-----------------|-----------|----------|
-| **[CPP Module 00](blank_)** | C++ basics (classes, namespaces) | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
+| **[CPP Module 00](link)** | C++ basics (classes, namespaces) | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
 | **[CPP Module 01](link)** | Memory allocation, references | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
 | **[CPP Module 02](link)** | Operator overloading, polymorphism | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
 | **[CPP Module 03](link)** | Inheritance, abstract classes | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
