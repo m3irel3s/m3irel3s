@@ -4,7 +4,7 @@ I’m 26 years old, born and raised in Porto, Portugal, and I’m currently stud
 ## 🚀 Core Skills:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,js,html,css,tailwind,react,mongodb,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,c,js,html,css,tailwind,react,mongodb,linux,bash" />
   </a>
 </p>
 
