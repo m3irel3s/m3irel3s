@@ -34,6 +34,8 @@ Here are the projects I’ve completed during my time at 42 School.
 | **[Cub3d](https://github.com/m3irel3s/42_Cub3d)**                | A 3D game using raycasting, inspired by Wolfenstein 3D | ![Static Badge](https://img.shields.io/badge/125%2F100-%2328a745?style=flat) | 04 |
 
 
+<!--
+
 <details>
 <summary>Expand CPP Modules</summary>
 
@@ -51,6 +53,8 @@ Here are the projects I’ve completed during my time at 42 School.
 | **[CPP Module 09](link)** | Real-world practice (phonebook, etc.) | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
 
 </details>
+
+-->
 </div>
 
 
