@@ -37,7 +37,7 @@ Here are the projects I’ve completed during my time at 42 School.
 
 
 
-
+<!--
 <details>
 <summary>Expand CPP Modules</summary>
 
@@ -55,6 +55,7 @@ Here are the projects I’ve completed during my time at 42 School.
 | **[CPP Module 09](link)** | Real-world practice (phonebook, etc.) | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
 
 </details>
+-->
 
 </div>
 
