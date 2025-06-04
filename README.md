@@ -36,7 +36,7 @@ Here are the projects I’ve completed during my time at 42 School.
 | **[Webserv](https://github.com/m3irel3s/42_Webserv)**                | C++ HTTP server | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 05 |
 
 
-<!--
+
 
 <details>
 <summary>Expand CPP Modules</summary>
@@ -56,7 +56,6 @@ Here are the projects I’ve completed during my time at 42 School.
 
 </details>
 
--->
 </div>
 
 
