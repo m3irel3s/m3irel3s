@@ -37,11 +37,6 @@ Here are the projects I’ve completed during my time at 42 School.
 | **[Inception](https://github.com/m3irel3s/42_Inception)**                | Docker-based multi-service infrastructure | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 05 |
 | **[Transcendence](https://github.com/m3irel3s/StarCendence)**                | Online multiplayer game | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 06 |
 
-</div>
-
-
-<div>
-
 <details>
   <br>
 <summary>Expand CPP Modules</summary>
