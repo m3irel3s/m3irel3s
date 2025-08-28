@@ -38,28 +38,25 @@ Here are the projects I’ve completed during my time at 42 School.
 | **[Transcendence](https://github.com/m3irel3s/StarCendence)**                | Online multiplayer game | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 06 |
 
 
-
-
 <details>
 <summary>Expand CPP Modules</summary>
 
 | **Project Name** | **Description** | **Grade** | **Rank** |
 |------------------|-----------------|-----------|----------|
-| **[CPP Module 00](link)** | C++ basics | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
-| **[CPP Module 01](link)** | Memory allocation, references | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
-| **[CPP Module 02](link)** | Operator overloading,  Orthodox Canonical class introduction | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
-| **[CPP Module 03](link)** | Inheritance, abstract classes | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
-| **[CPP Module 04](link)** | Polymorphism, abstract Classes, and Interfaces | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
-| **[CPP Module 05](link)** | Exceptions and error handling | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 05 |
-| **[CPP Module 06](link)** | Casting (static, dynamic, etc.) | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 05 |
-| **[CPP Module 07](link)** | Templates | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 05 |
-| **[CPP Module 08](link)** | Algorithms and containers | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 05 |
-| **[CPP Module 09](link)** | Algorithms and containers  | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 05 |
+| **[CPP Module 00](link)** | C++ basics | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 04 |
+| **[CPP Module 01](link)** | Memory allocation, references | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 04 |
+| **[CPP Module 02](link)** | Operator overloading,  Orthodox Canonical class introduction | ![Static Badge](https://img.shields.io/badge/80%2F100-%2328a745?style=flat) | 04 |
+| **[CPP Module 03](link)** | Inheritance, abstract classes | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 04 |
+| **[CPP Module 04](link)** | Polymorphism, abstract Classes, and Interfaces | ![Static Badge](https://img.shields.io/badge/80%2F100-%2328a745?style=flat) | 04 |
+| **[CPP Module 05](link)** | Exceptions and error handling | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 05 |
+| **[CPP Module 06](link)** | Casting (static, dynamic, etc.) | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 05 |
+| **[CPP Module 07](link)** | Templates | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 05 |
+| **[CPP Module 08](link)** | Algorithms and containers | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 05 |
+| **[CPP Module 09](link)** | Algorithms and containers  | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 05 |
 
 </details>
 
 </div>
-
 
 
 <!-- ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) -->
