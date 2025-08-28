@@ -45,11 +45,11 @@ Here are the projects I’ve completed during my time at 42 School.
 
 | **Project Name** | **Description** | **Grade** | **Rank** |
 |------------------|-----------------|-----------|----------|
-| **[CPP Module 00](link)** | C++ basics (classes, namespaces) | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
+| **[CPP Module 00](link)** | C++ basics | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
 | **[CPP Module 01](link)** | Memory allocation, references | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
-| **[CPP Module 02](link)** | Operator overloading, polymorphism | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
+| **[CPP Module 02](link)** | Operator overloading,  Orthodox Canonical class introduction | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
 | **[CPP Module 03](link)** | Inheritance, abstract classes | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
-| **[CPP Module 04](link)** | Polymorphism, Abstract Classes, and Interfaces | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
+| **[CPP Module 04](link)** | Polymorphism, abstract Classes, and Interfaces | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
 | **[CPP Module 05](link)** | Exceptions and error handling | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 05 |
 | **[CPP Module 06](link)** | Casting (static, dynamic, etc.) | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 05 |
 | **[CPP Module 07](link)** | Templates | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 05 |
@@ -59,6 +59,7 @@ Here are the projects I’ve completed during my time at 42 School.
 </details>
 
 </div>
+
 
 
 <!-- ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) -->
