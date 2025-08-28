@@ -49,12 +49,12 @@ Here are the projects I’ve completed during my time at 42 School.
 | **[CPP Module 01](link)** | Memory allocation, references | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
 | **[CPP Module 02](link)** | Operator overloading, polymorphism | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
 | **[CPP Module 03](link)** | Inheritance, abstract classes | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
-| **[CPP Module 04](link)** | Templates, typename | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
-| **[CPP Module 05](link)** | Exceptions and error handling | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
-| **[CPP Module 06](link)** | Casting (static, dynamic, etc.) | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
-| **[CPP Module 07](link)** | Containers, iterators | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
-| **[CPP Module 08](link)** | Algorithms, more containers | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
-| **[CPP Module 09](link)** | Real-world practice (phonebook, etc.) | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
+| **[CPP Module 04](link)** | Polymorphism, Abstract Classes, and Interfaces | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 04 |
+| **[CPP Module 05](link)** | Exceptions and error handling | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 05 |
+| **[CPP Module 06](link)** | Casting (static, dynamic, etc.) | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 05 |
+| **[CPP Module 07](link)** | Templates | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 05 |
+| **[CPP Module 08](link)** | Algorithms and containers | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 05 |
+| **[CPP Module 09](link)** | Algorithms and containers  | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 05 |
 
 </details>
 
