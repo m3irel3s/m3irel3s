@@ -38,7 +38,7 @@ Here are the projects I’ve completed during my time at 42 School.
 | **[Transcendence](https://github.com/m3irel3s/StarCendence)**                | Online multiplayer game | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 06 |
 
 
-<details>
+<details style="margin-top: 10px;">
 <summary>Expand CPP Modules</summary>
 
 | **Project Name** | **Description** | **Grade** | **Rank** |
