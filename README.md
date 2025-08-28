@@ -33,9 +33,9 @@ Here are the projects I’ve completed during my time at 42 School.
 | **[Minishell](https://github.com/m3irel3s/42_Minishell)**        | Creating a basic UNIX shell that works like Bash    | ![Static Badge](https://img.shields.io/badge/99%2F100-%2328a745?style=flat)  | 03 |
 | **[Philosophers](https://github.com/m3irel3s/42_Philosophers)**  | Solving dining philosophers problem                 | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 03 |
 | **[Cub3d](https://github.com/m3irel3s/42_Cub3d)**                | A 3D game using raycasting, inspired by Wolfenstein 3D | ![Static Badge](https://img.shields.io/badge/125%2F100-%2328a745?style=flat) | 04 |
-| **[Webserv](https://github.com/m3irel3s/42_Webserv)**                | C++ HTTP server | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 05 |
-| **[Inception](https://github.com/m3irel3s/42_Inception)**                | Docker-based multi-service infrastructure | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 05 |
-| **[Transcendence](https://github.com/m3irel3s/StarCendence)**                | Online multiplayer game | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 06 |
+| **[Webserv](https://github.com/m3irel3s/42_Webserv)**            | C++ HTTP server                                     | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 05 |
+| **[Inception](https://github.com/m3irel3s/42_Inception)**        | Docker-based multi-service infrastructure           | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 05 |
+| **[Transcendence](https://github.com/m3irel3s/StarCendence)**    | Web-based Pong game                                 | ![Static Badge](https://img.shields.io/badge/IN%20PROGRESS-yellow) | 06 |
 
 <details>
   <br>
@@ -43,16 +43,16 @@ Here are the projects I’ve completed during my time at 42 School.
 
 | **Project Name** | **Description** | **Grade** | **Rank** |
 |------------------|-----------------|-----------|----------|
-| **[CPP Module 00](link)** | C++ basics | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 04 |
-| **[CPP Module 01](link)** | Memory allocation, references | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 04 |
-| **[CPP Module 02](link)** | Operator overloading,  Orthodox Canonical class introduction | ![Static Badge](https://img.shields.io/badge/80%2F100-%2328a745?style=flat) | 04 |
-| **[CPP Module 03](link)** | Inheritance, abstract classes | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 04 |
-| **[CPP Module 04](link)** | Polymorphism, abstract Classes, and Interfaces | ![Static Badge](https://img.shields.io/badge/80%2F100-%2328a745?style=flat) | 04 |
-| **[CPP Module 05](link)** | Exceptions and error handling | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 05 |
-| **[CPP Module 06](link)** | Casting (static, dynamic, etc.) | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 05 |
-| **[CPP Module 07](link)** | Templates | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 05 |
-| **[CPP Module 08](link)** | Algorithms and containers | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 05 |
-| **[CPP Module 09](link)** | Algorithms and containers  | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 05 |
+| **[CPP Module 00](https://github.com/m3irel3s/42_CPP/tree/main/Module_00)** | C++ basics                                                   | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 04 |
+| **[CPP Module 01](https://github.com/m3irel3s/42_CPP/tree/main/Module_01)** | Memory allocation, references                                | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 04 |
+| **[CPP Module 02](https://github.com/m3irel3s/42_CPP/tree/main/Module_02)** | Operator overloading,  Orthodox Canonical class introduction | ![Static Badge](https://img.shields.io/badge/80%2F100-%2328a745?style=flat) | 04 |
+| **[CPP Module 03](https://github.com/m3irel3s/42_CPP/tree/main/Module_03)** | Inheritance, abstract classes                                | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 04 |
+| **[CPP Module 04](https://github.com/m3irel3s/42_CPP/tree/main/Module_04)** | Polymorphism, abstract Classes, and Interfaces               | ![Static Badge](https://img.shields.io/badge/80%2F100-%2328a745?style=flat) | 04 |
+| **[CPP Module 05](https://github.com/m3irel3s/42_CPP/tree/main/Module_05)** | Exceptions and error handling                                | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 05 |
+| **[CPP Module 06](https://github.com/m3irel3s/42_CPP/tree/main/Module_06)** | Casting (static, dynamic, etc.)                              | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 05 |
+| **[CPP Module 07](https://github.com/m3irel3s/42_CPP/tree/main/Module_07)** | Templates                                                    | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 05 |
+| **[CPP Module 08](https://github.com/m3irel3s/42_CPP/tree/main/Module_08)** | Algorithms and containers                                    | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 05 |
+| **[CPP Module 09](https://github.com/m3irel3s/42_CPP/tree/main/Module_09)** | Algorithms and containers                                    | ![Static Badge](https://img.shields.io/badge/100%2F100-%2328a745?style=flat) | 05 |
 
 </details>
 
