@@ -6,7 +6,7 @@ I’ve worked on projects using C, C++, and TypeScript, and I enjoy understandin
 ## 🚀 Core Skills:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,ts,html,css,tailwind,react,mongodb,linux,bash,docker" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,ts,html,css,tailwind,react,postgres,mongodb,linux,bash,docker" />
     
   
   </a>
