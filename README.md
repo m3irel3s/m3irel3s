@@ -19,14 +19,14 @@ I’ve worked on projects using C, C++, and TypeScript, and I enjoy understandin
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3irel3s&theme=github_dark&hide_border=true&border_radius=10&layout=compact&v=2"/>
 </p>
 
-## 💡 Personal Projects
+<!--## 💡 Personal Projects
 <div align="center">
 
 | **Project** | **Description** | **Stack** | **Status** |
 |------------|------------------|----------|-----------|
 | **[ProductLocator](https://github.com/m3irel3s/ProductLocator)** | App to search products inside a store. | .NET | 🟡 In progress |
 
-</div>
+</div> -->
 
 
 ## 👨‍💻 42 Projects
